@@ -1,0 +1,46 @@
+{
+  "career": {
+    "target_titles": [
+      "Technical Support Engineer"
+    ],
+    "total_years_experience": 5
+  },
+  "skills": {
+    "technical_support": {
+      "years": 5,
+      "aliases": [
+        "technical support"
+      ],
+      "evidence": [
+        "Fictional demo experience"
+      ]
+    },
+    "python": {
+      "years": 5,
+      "aliases": [
+        "python"
+      ],
+      "evidence": [
+        "Fictional demo experience"
+      ]
+    },
+    "apis": {
+      "years": 5,
+      "aliases": [
+        "rest api"
+      ],
+      "evidence": [
+        "Fictional demo experience"
+      ]
+    },
+    "incident_rca": {
+      "years": 5,
+      "aliases": [
+        "troubleshooting"
+      ],
+      "evidence": [
+        "Fictional demo experience"
+      ]
+    }
+  }
+}

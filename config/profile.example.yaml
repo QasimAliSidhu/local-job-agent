@@ -1,0 +1,93 @@
+personal:
+  first_name: "YOUR_FIRST_NAME"
+  last_name: "YOUR_LAST_NAME"
+  email: "you@example.com"
+  phone: "+92..."
+  city: "Lahore"
+  country: "Pakistan"
+  linkedin_url: ""
+  portfolio_url: ""
+  github_url: ""
+
+career:
+  current_title: ""
+  total_years_experience: 0
+  notice_period_days: 30
+  target_titles:
+    - "Senior Product Manager"
+    - "Product Manager"
+    - "Technical Product Manager"
+    - "Product Lead"
+
+work_authorization:
+  Pakistan: true
+  United States: false
+  Canada: false
+  United Kingdom: false
+  European Union: false
+  India: false
+
+sponsorship:
+  United States: true
+  Canada: true
+  United Kingdom: true
+  European Union: true
+  India: true
+
+preferences:
+  remote_only: true
+  willing_us_hours: true
+  minimum_match_score: 70
+  auto_queue_score: 85
+  clarification_min_score: 70
+  clarification_max_score: 84
+  max_applicants: 99
+  posted_within_hours: 24
+  salary_text: ""
+
+# Only put verified facts here. The clarification workflow adds confirmed facts.
+skills:
+  product_management:
+    years: 0
+    aliases: ["product management", "product strategy", "roadmap"]
+    evidence: []
+  b2b_saas:
+    years: 0
+    aliases: ["b2b saas", "saas", "enterprise software"]
+    evidence: []
+  sql:
+    years: 0
+    aliases: ["sql", "postgresql", "mysql", "bigquery"]
+    evidence: []
+  experimentation:
+    years: 0
+    aliases: ["a/b testing", "experimentation", "experiments"]
+    evidence: []
+  pricing:
+    years: 0
+    aliases: ["pricing", "packaging", "monetization", "subscriptions"]
+    evidence: []
+  apis:
+    years: 0
+    aliases: ["api", "apis", "developer platform", "integrations"]
+    evidence: []
+  ai_products:
+    years: 0
+    aliases: ["ai", "artificial intelligence", "machine learning", "llm", "generative ai"]
+    evidence: []
+
+answers:
+  willing_to_relocate: "No"
+  willing_to_work_remote: "Yes"
+  willing_us_hours: "Yes"
+  notice_period: "30 days"
+  expected_compensation: ""
+  current_compensation: ""
+  gender: "Prefer not to answer"
+  ethnicity: "Prefer not to answer"
+  disability: "Prefer not to answer"
+  veteran_status: "Prefer not to answer"
+
+resume:
+  master_pdf: "data/resumes/master.pdf"
+  master_text: "data/resumes/master.txt"

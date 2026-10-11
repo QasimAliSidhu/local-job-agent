@@ -1,0 +1,17 @@
+keywords:
+  - "Senior Product Manager"
+  - "Product Manager"
+  - "Technical Product Manager"
+  - "Product Lead"
+locations:
+  - "Pakistan"
+  - "United States"
+  - "Canada"
+  - "United Kingdom"
+  - "India"
+  - "Singapore"
+  - "United Arab Emirates"
+remote_only: true
+posted_within_hours: 24
+max_pages_per_query: 2
+request_delay_seconds: 1.5

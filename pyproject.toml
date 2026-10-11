@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "job-agent-poc"
+version = "0.2.3"
+description = "Local-first job discovery, clarification, resume-tailoring and ATS autofill PoC"
+requires-python = ">=3.11"
+dependencies = [
+  "requests>=2.32",
+  "beautifulsoup4>=4.12",
+  "PyYAML>=6.0",
+  "Jinja2>=3.1",
+  "pypdf>=5.0",
+  "playwright>=1.55",
+  "mcp>=1.0",
+]
+
+[project.scripts]
+job-agent = "job_agent.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["job_agent*"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

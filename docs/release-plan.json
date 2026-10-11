@@ -1,0 +1,20 @@
+{
+  "tag": "v0.1.0-demo",
+  "title": "Local Job Agent \u2014 public workflow demo",
+  "publish_at_utc": "2026-10-15T13:47:00+00:00",
+  "deadline_utc": "2026-10-15T18:59:59+00:00",
+  "assets": [
+    {
+      "path": "docs/demo.gif",
+      "name": "demo.gif",
+      "content_type": "image/gif",
+      "sha256": "c4ea7251e0784c93bc799d4c67f03513d4db33e18c6413d20c267e5dad9a6c90"
+    },
+    {
+      "path": "docs/demo.mp4",
+      "name": "demo.mp4",
+      "content_type": "video/mp4",
+      "sha256": "321013ba5772389f5fcbc3a9116ac48c92d5b4a7e25b995094a318829cda9566"
+    }
+  ]
+}

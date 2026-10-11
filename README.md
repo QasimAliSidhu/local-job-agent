@@ -23,3 +23,5 @@ See [Credits and source references](CREDITS.md) for the upstream tools, librarie
 Run `python examples/offline_demo.py` for the fictional matching and eligibility example used in the demo. It does not discover jobs or submit applications.
 
 [Download the full-motion recording](docs/demo.mp4).
+
+[Try the demo and a practical exercise](docs/QUICKSTART.md).
